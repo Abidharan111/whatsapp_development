@@ -1,0 +1,8 @@
+#This is the code to develop whatsApp application 
+
+create profile configurations
+
+create chat tab 
+
+create status tab 
+
