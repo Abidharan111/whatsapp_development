@@ -6,7 +6,7 @@ create chat tab
 
 create status tab 
 
-attachments(file,image,audio,video)
+attachments(documents,image,audio,video)
 
 Hiding the last seen 
 
@@ -15,5 +15,12 @@ Adding the audio call feature
 Adding the video call feature 
 
 Hiding the online status
+
+Adding a avatar feature
+
+
+
+
+
 
 
