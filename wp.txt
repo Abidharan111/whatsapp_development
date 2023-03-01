@@ -6,3 +6,6 @@ create chat tab
 
 create status tab 
 
+attachments(file,image,audio,video)
+
+Hide the last seen 
