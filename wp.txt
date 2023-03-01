@@ -9,3 +9,9 @@ create status tab
 attachments(file,image,audio,video)
 
 Hide the last seen 
+
+Adding the audio call feature 
+
+Adding the video call feature 
+
+
