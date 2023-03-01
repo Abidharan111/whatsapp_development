@@ -20,6 +20,8 @@ Adding a avatar feature
 
 creating a group with 200 members
 
+integrating online payments
+
 
 
 
