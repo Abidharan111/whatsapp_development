@@ -18,7 +18,6 @@ Hiding the online status
 
 Adding a avatar feature
 
-creating a group consists of 100 mems
 
 
 
